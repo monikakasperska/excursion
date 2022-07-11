@@ -4,7 +4,7 @@ body{
 	text-align: center;
 	background-color: black;
 }
-header h1{
+header header--main{
 	font-family: Verdana;
 	font-weight: Normal;
 	font-size: 50px;
