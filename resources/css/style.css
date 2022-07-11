@@ -4,7 +4,7 @@ body{
 	text-align: center;
 	background-color: black;
 }
-header header--main{
+.header--main{
 	font-family: Verdana;
 	font-weight: Normal;
 	font-size: 50px;
@@ -12,18 +12,18 @@ header header--main{
 	color: white;
 	
 }
-.download{
+.link--cta{
 	color: Aquamarine;
 	font-size: 16px;
 	
 }
-h2{
+.header--secondary{
 	font=family: Verdana;
 	font-weight: 300;
 	font-size: 42px;
 	color: white;
 }
-p{
+.header--sub-header{
 	font-family: Verdana;
 	font-size: 21px;
 	color: grey;
