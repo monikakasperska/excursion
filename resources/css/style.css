@@ -28,9 +28,9 @@ body{
 	font-size: 21px;
 	color: grey;
 }
-#signature {
+.footer--copyright{	
 	text-align: right;
-	color: gray;
+	color: grey;
 	float: right;
 	font-size: 30px;
 }
